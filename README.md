@@ -23,7 +23,6 @@ pip install djoser==2.0.3
 ```
 
 ## PUNTOS FINALES
-> Todos los puntos finales requieren Token Bearer en la cabecera
 
 * ### Crear usuario
 Use este punto final para registrar un nuevo usuario.
